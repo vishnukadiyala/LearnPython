@@ -1,0 +1,81 @@
+## Contents to Cover in this class. 
+
+# 1. types of variables 
+# 2. Strings and handling strings
+# 3. Arithematic Operations
+# 4. Conditional Statements
+# 5. Loops (Probably in next class)
+# 6. Lists and Tuples (probably in next class)
+
+
+1. Types of Variables
+    - Integers
+    - Float
+    - Strings
+    - Boolean
+
+
+    # Complex Ones
+    - Complex
+    - List
+    - Tuple
+    - Dictionary
+    - Set
+    - Frozenset
+    - Bytes
+    - Bytearray
+    - Range
+    - None
+
+2. Strings and handling strings
+    - String Declaration
+    - String Concatenation
+    - String Indexing
+    - String Slicing
+    - String Methods
+    - String Formatting
+    - Escape Sequences
+
+3. Arithematic Operations
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Modulus
+    - Exponential
+    - Floor Division
+
+4. Conditional Statements
+    - If
+    - If-else
+    - If-elif-else
+    - Nested If-else
+
+5. Loops
+    - For Loop
+    - While Loop
+    - Nested Loops
+
+6. Lists, Tuples and Dictionaries
+    - List Declaration
+    - List Indexing
+    - List Slicing
+    - List Methods
+    - Tuple Declaration
+    - Tuple Indexing
+    - Tuple Slicing
+    - Tuple Methods
+    - Dictionary Declaration
+    - Dictionary Indexing
+    - Dictionary Methods
+
+7. Functions
+    - Declaration
+    - Arguments
+    - Return Statement
+    - Recursion
+    - Lambda Functions
+    - Map, Filter and Reduce
+    
+
+
